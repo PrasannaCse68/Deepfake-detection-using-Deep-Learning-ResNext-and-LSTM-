@@ -99,3 +99,4 @@ Deepfake_detection_using_deep_learning
 #### Completed 
 - [X] Dockerizing the app
 - [X] Enabling working of project on Non Cuda Computers. i.e on normal or AMD GPUs
+
